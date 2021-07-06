@@ -7,3 +7,4 @@
 - `git switch <NAME>`: move to the branch <NAME>
 
 	-`git checkout <NAME>`: the older way to switch to branch
+- `git stash`: will still create a temp commit
