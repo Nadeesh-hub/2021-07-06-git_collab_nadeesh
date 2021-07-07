@@ -15,4 +15,4 @@
 
 - `git switch - c <NAME>` : create and move to the branch <NAME>
 - `git checkout -b <NAME>` : also create and move to the branch <NAME>
-
+- `git rebase <BRANCH>`: change the history and update current branch with <BRANCH>
